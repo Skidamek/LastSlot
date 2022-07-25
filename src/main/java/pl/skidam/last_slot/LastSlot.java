@@ -11,5 +11,7 @@ public class LastSlot implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		LOGGER.info("Initialized {}", MOD_ID);
+
 	}
 }

@@ -24,7 +24,6 @@
     "last_slot.mixins.json"
   ],
   "depends": {
-    "minecraft": ">=1.18"
   },
   "suggests": {
   }
