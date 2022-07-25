@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "last_slot",
+  "version": "1.0.0",
+  "name": "Last Slot",
+  "description": "",
+  "authors": [
+    "Skidam"
+  ],
+  "contributors": [
+  ],
+  "contact": {
+    "sources": "https://github.com/Skidamek/last-slot",
+    "issues": "https://github.com/Skidamek/last-slot/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/last_slot/icon.png",
+
+  "environment": "server",
+  "entrypoints": {
+    "main": ["pl.skidam.last_slot.LastSlot"]
+  },
+  "mixins": [
+    "last_slot.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.18"
+  },
+  "suggests": {
+  }
+}
