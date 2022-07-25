@@ -2,7 +2,7 @@
 
 What it does?
 
-Basically it does nothing. But! It makes max slot "fake" to make cool effect that on the server is last slot only for you! (really it might be but in most cases it's not)
+Basically it does nothing. But! It makes max slot "fake" to make cool effect that on the server is last slot only for you! (really it might be, but in most cases it's not xD)
 
 Still max slot in `server.properties` is the true max slot.
 
@@ -10,7 +10,7 @@ Still max slot in `server.properties` is the true max slot.
 
 # How to install?
 
-[Download](https://github.com/Skidamek/last-slot/releases/download/v1.0.0/last-slot-1.0.0.jar)
+[Download](https://cdn.modrinth.com/data/WkmQvRXN/versions/1.0.0/last-slot-1.0.0.jar)
 
 Put to server mods (on client it does really nothing)
 
