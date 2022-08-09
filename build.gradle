@@ -185,7 +185,7 @@ tasks.withType(JavaCompile).configureEach {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "last-slot",
+                "Specification-Title"     : "last-slot-forge",
                 "Specification-Vendor"    : "Skidam",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
