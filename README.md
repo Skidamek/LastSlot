@@ -10,6 +10,8 @@ Still max slot in `server.properties` is the true max slot.
 
 # How to install?
 
+Install Forge/Fabric/Quilt mod loader (one of them)
+
 [Download](https://github.com/Skidamek/last-slot/releases/download/v1.0.0/last-slot-1.0.0.jar)
 
 Put to server mods (on client it does really nothing)

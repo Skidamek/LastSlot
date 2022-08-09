@@ -20,7 +20,7 @@ public class ServerMetadataPlayersMixin {
     }
 
     @Inject(method = "getPlayerLimit", at = @At("HEAD"))
-    private void setPlayerFakeMaxSlot10(CallbackInfoReturnable<Integer> cir) {
+    private void setPlayerFakeMaxSlot2(CallbackInfoReturnable<Integer> cir) {
         max = online + 1;
     }
 }

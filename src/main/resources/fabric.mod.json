@@ -3,7 +3,7 @@
   "id": "last_slot",
   "version": "1.0.0",
   "name": "Last Slot",
-  "description": "",
+  "description": "Makes max slot \"fake\" to make cool effect that on the server is last slot only for you!",
   "authors": [
     "Skidam"
   ],
@@ -26,5 +26,6 @@
   "depends": {
   },
   "suggests": {
+    "automodpack": "*"
   }
 }
