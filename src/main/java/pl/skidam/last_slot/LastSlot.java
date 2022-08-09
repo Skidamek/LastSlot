@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 @Mod("lastslot")
 public class LastSlot {
     private static final Logger LOGGER = LogUtils.getLogger();
-    public static final String MOD_ID = "Last slot";
+    public static final String MOD_ID = "last-slot";
 
     public LastSlot() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);

@@ -20,7 +20,7 @@ public class ServerStatusPlayersMixin {
     }
 
     @Inject(method = "getMaxPlayers", at = @At("HEAD"))
-    private void setPlayerFakeMaxSlot10(CallbackInfoReturnable<Integer> cir) {
+    private void setPlayerFakeMaxSlot2(CallbackInfoReturnable<Integer> cir) {
         maxPlayers = numPlayers + 1;
     }
 }
